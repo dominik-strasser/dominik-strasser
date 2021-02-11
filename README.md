@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let's make a game 🕹️
 
 <!--
 **dominik-strasser/dominik-strasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
